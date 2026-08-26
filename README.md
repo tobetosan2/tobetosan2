@@ -131,7 +131,7 @@ Meu objetivo é aplicar meus conhecimentos em projetos reais, contribuir com a e
 
 ## 📫 Contato
 
-💼 **LinkedIn:** adicione-aqui-seu-link-do-linkedin
+💼 **LinkedIn:** https://www.linkedin.com/in/carlos-santos8/
 
 💻 **GitHub:** https://github.com/tobetosan2
 
