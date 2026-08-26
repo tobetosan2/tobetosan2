@@ -8,7 +8,7 @@ Desenvolvo projetos práticos utilizando **React, JavaScript, HTML, CSS e Vite**
 
 Tenho experiência prática na criação de interfaces, consumo de APIs, manipulação e organização de dados, banco de dados e desenvolvimento de automações com Python.
 
-🎯 **Busco oportunidades como Desenvolvedor Júnior, Analista de Dados/BI Júnior ou posições relacionadas à tecnologia e automação.**
+🎯 **Busco oportunidades como Desenvolvedor Frontend Júnior, Analista de Dados/BI Júnior ou em posições relacionadas a Python e Automação.**
 
 ---
 
@@ -30,11 +30,12 @@ Tenho experiência prática na criação de interfaces, consumo de APIs, manipul
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & Automação
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Ferramentas
 
@@ -44,96 +45,87 @@ Tenho experiência prática na criação de interfaces, consumo de APIs, manipul
 
 ---
 
-## 📚 Atualmente estudando e aprimorando
+## ⭐ Projetos em destaque
 
-- ⚛️ **React e JavaScript**
-- 🎨 **HTML e CSS**
-- 📊 **Power BI**
-- 🗄️ **SQL e MySQL**
-- 🐍 **Python**
-- 🤖 **Automação de processos**
-- 📈 **Análise e tratamento de dados**
-- 🌐 **Desenvolvimento Web**
+### 🤖 Monitor de Publicações DJE/TJSP
 
----
+Automação desenvolvida em **Python** para pesquisa, coleta, processamento e validação de informações provenientes de publicações do DJE/TJSP.
 
-## 💼 Projetos e Experiência Prática
+O projeto utiliza conceitos de **automação web, Selenium, processamento de documentos, tratamento de dados, regras de negócio e exportação para Excel**.
 
-Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos e projetos pessoais voltados para **Desenvolvimento, Dados e Automação**.
-
-Entre os conhecimentos aplicados nos projetos estão:
-
-- ⚛️ Desenvolvimento de aplicações com **React**
-- 🟨 Programação com **JavaScript**
-- 🔌 Consumo e integração com **APIs**
-- 🔎 Sistemas de busca, filtros e manipulação de dados
-- 📝 Formulários e validações
-- 📱 Desenvolvimento de interfaces responsivas
-- 🗄️ Banco de dados com **SQL e MySQL**
-- 📊 Análise e visualização de dados
-- 📈 Criação de dashboards com **Power BI**
-- 🐍 Desenvolvimento de scripts e automações com **Python**
-- ⚙️ Automação de coleta, tratamento e organização de informações
-- 🔧 Versionamento de projetos utilizando **Git e GitHub**
-
-Meu objetivo é transformar cada projeto em uma oportunidade de aplicar conceitos utilizados no mercado e evoluir continuamente como profissional de tecnologia.
+🔗 [Ver projeto](https://github.com/tobetosan2/monitor-dje-tjsp)
 
 ---
 
-## ⭐ Projetos em Destaque
+### 📍 BuscaCEP
 
-### 🐍 Automação e Dados com Python
+Aplicação desenvolvida com **React + Vite** para consulta de endereços através de CEP.
 
-Projeto de automação desenvolvido em **Python** para coleta, organização e tratamento de informações, utilizando conceitos de automação, manipulação de dados e geração de relatórios.
+O projeto realiza integração com a **API ViaCEP** e trabalha com conceitos de consumo de APIs, requisições assíncronas, estados e renderização dinâmica.
 
-**Tecnologias:** Python • Selenium • Excel • Automação • Tratamento de Dados
-
-### 🛹 Revista Digital com React
-
-Aplicação desenvolvida utilizando **React**, trabalhando com componentes reutilizáveis, props, arrays de dados e renderização dinâmica de conteúdo.
-
-**Tecnologias:** React • JavaScript • HTML • CSS
-
-### 🔎 Busca CEP
-
-Aplicação web para consulta de CEP, aplicando conceitos de desenvolvimento frontend e consumo de dados externos.
-
-**Tecnologias:** React • JavaScript • API • HTML • CSS
-
-### 🍔 Sistema de Restaurantes
-
-Sistema web inspirado em plataformas de delivery, desenvolvido para praticar desenvolvimento frontend, backend e integração com banco de dados.
-
-**Tecnologias:** HTML • CSS • PHP • MySQL
+🔗 [Ver projeto](https://github.com/tobetosan2/buscacep-react)
 
 ---
 
-## 🎓 Formação
+### 🛹 Revista 200% — Skate Magazine
 
-📚 **Análise e Desenvolvimento de Sistemas (ADS)**
+Revista digital desenvolvida com **React, JavaScript e Vite**, utilizando componentes reutilizáveis, Props, Hooks, arrays de dados e renderização dinâmica.
 
-Além da graduação, venho realizando cursos e estudos complementares voltados para **desenvolvimento web, programação, banco de dados, automação e análise de dados**.
+O projeto demonstra conceitos fundamentais do desenvolvimento Frontend com React.
+
+🔗 [Ver projeto](https://github.com/tobetosan2/revista-200-react)
 
 ---
 
-## 🎯 Objetivo Profissional
+### 🍔 Sistema Web de Restaurantes
 
-Busco oportunidades em início de carreira nas áreas de:
+Sistema web Full Stack de delivery desenvolvido com **HTML, CSS, PHP e MySQL**.
 
-- 💻 **Desenvolvimento Frontend / Desenvolvimento Júnior**
-- 📊 **Análise de Dados / BI Júnior**
-- 🐍 **Python e Automação**
-- 🗄️ **Banco de Dados / SQL**
+O projeto trabalha com integração entre **Frontend, Backend e banco de dados**, incluindo produtos, usuários e gerenciamento de informações.
 
-Meu objetivo é aplicar meus conhecimentos em projetos reais, contribuir com a equipe e continuar evoluindo profissionalmente na área de tecnologia.
+🔗 [Ver projeto](https://github.com/tobetosan2/projeto-sistema-de-restaurantes)
+
+---
+
+## 🎓 Formação e Aprendizado
+
+🎓 **Análise e Desenvolvimento de Sistemas (ADS)**
+
+Tenho direcionado meus estudos e projetos principalmente para:
+
+- ⚛️ React e desenvolvimento Frontend
+- 🟨 JavaScript
+- 🐍 Python
+- 📊 Análise de Dados e BI
+- 🗄️ SQL e MySQL
+- 📈 Power BI
+- ⚙️ Automação de processos
+- 🌐 Consumo de APIs
+- 🔧 Git e GitHub
+
+Busco desenvolver projetos práticos para transformar o conhecimento adquirido nos estudos em experiência aplicada.
+
+---
+
+## 💡 Áreas de interesse
+
+```text
+💻 Desenvolvimento Frontend
+📊 Dados e Business Intelligence
+🐍 Python
+⚙️ Automação
+🗄️ Banco de Dados
+```
 
 ---
 
 ## 📫 Contato
 
-💼 **LinkedIn:** https://www.linkedin.com/in/carlos-santos8/
+Estou aberto a oportunidades profissionais e conexões na área de tecnologia.
 
-💻 **GitHub:** https://github.com/tobetosan2
+💼 **Interesses profissionais:** Frontend Júnior • Dados/BI Júnior • Python/Automação
+
+📂 Confira meus repositórios para conhecer meus projetos e minha evolução profissional.
 
 ---
 
