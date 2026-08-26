@@ -80,7 +80,7 @@ Busco minha oportunidade como **Desenvolvedor Frontend Júnior**, onde possa apl
 
 ## 📫 Contato
 
-💼 LinkedIn: adicione-aqui-seu-link-do-linkedin
+💼 LinkedIn: https://www.linkedin.com/in/carlos-santos8/
 
 💻 GitHub: https://github.com/tobetosan2
 
