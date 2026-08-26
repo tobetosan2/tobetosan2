@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Carlos Santos
 
-### 💻 Desenvolvedor Frontend Júnior | React • JavaScript • HTML • CSS
+### 💻 Desenvolvimento • Dados • Automação | React • JavaScript • Python • SQL • Power BI
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou direcionando minha carreira para o desenvolvimento de software.
 
